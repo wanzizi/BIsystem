@@ -1,0 +1,37 @@
+{
+  {
+    "id": "v100",
+    "row": 1,
+    "col": 1,
+    "offsetRow": 0,
+    "offsetCol": 0,
+    "innerRow": 2,
+    "innerCol": 2,
+    "children": [
+      {
+        "type": "text",
+        "id": "t100",
+        "row": 1,
+        "col": 1,
+        "offsetRow": 1,
+        "offsetCol": 1
+      },
+      {
+        "type": "image",
+        "id": "t100",
+        "row": 1,
+        "col": 1,
+        "offsetRow": 1,
+        "offsetCol": 1
+      },
+      {
+        "type": "table",
+        "id": "t100",
+        "row": 1,
+        "col": 1,
+        "offsetRow": 1,
+        "offsetCol": 1
+      }
+    ]
+  }
+}
